@@ -1,4 +1,11 @@
 body{
     color:aliceblue;
     background:black;
+    margin:0px;
+}
+header{
+    border-bottom:solid 2px aliceblue;
+    padding: 20px;
+    font-size: 32px;
+    color: aliceblue;
 }
