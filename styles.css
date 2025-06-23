@@ -2,6 +2,7 @@ body{
     color:aliceblue;
     background:black;
     margin:0px;
+     font-family: "Chakra Petch", sans-serif;
 }
 header{
     border-bottom:solid 2px aliceblue;
@@ -16,4 +17,26 @@ section {
     padding-top: 80px;
     display: flex;
     justify-content: center;
+}
+
+ .chamada-texto{
+    margin-right: 5%;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+p {
+    font-size: 20px;
+}
+{
+    img{
+        height: 200px;
+    }
+}
+
+.categoria-videos {
+   display: flex; 
+   overflow-x: auto;
 }
